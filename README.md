@@ -1,2 +1,2 @@
-# realestateimages
-This repository contains CNN architecture to determine if images of apartments are real.
+# real-estate-images
+This repository contains CNN architecture to determine if images of apartments are real. Fake images when searching for apartments are not just a nuisance-- they could very well encourage a user to look somewhere else for their search. By building a neural network model that can identify whether an image is real or fake, websites hosting properties up for rent or sale can reduce said friction and keep users happy.
